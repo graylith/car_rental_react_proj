@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.acf711b3.chunk.css",
+    "main.js": "/static/js/main.fda4e34b.chunk.js",
+    "main.js.map": "/static/js/main.fda4e34b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b316340b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b316340b.js.map",
+    "static/css/2.69121389.chunk.css": "/static/css/2.69121389.chunk.css",
+    "static/js/2.d15f5c63.chunk.js": "/static/js/2.d15f5c63.chunk.js",
+    "static/js/2.d15f5c63.chunk.js.map": "/static/js/2.d15f5c63.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0e208f6d8407f529338b0ef4c1049b3a.js": "/precache-manifest.0e208f6d8407f529338b0ef4c1049b3a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/static/css/2.69121389.chunk.css.map",
+    "static/css/main.acf711b3.chunk.css.map": "/static/css/main.acf711b3.chunk.css.map",
+    "static/js/2.d15f5c63.chunk.js.LICENSE.txt": "/static/js/2.d15f5c63.chunk.js.LICENSE.txt",
+    "static/media/form_style.css": "/static/media/bg1.d3ebed25.jpg",
+    "static/media/ertiga.jpg": "/static/media/ertiga.e110b3e0.jpg",
+    "static/media/fordecosport.jpg": "/static/media/fordecosport.03d477d7.jpg",
+    "static/media/agency.min.css": "/static/media/header-bg.f9def2bf.jpg",
+    "static/media/honda-cr-v.jpg": "/static/media/honda-cr-v.c36439d0.jpg",
+    "static/media/hyundai-i10.jpg": "/static/media/hyundai-i10.90ace012.jpg",
+    "static/media/maruti-xl6.jpg": "/static/media/maruti-xl6.d2656d79.jpg",
+    "static/media/swift.png": "/static/media/swift.4ffc49d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b316340b.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.d15f5c63.chunk.js",
+    "static/css/main.acf711b3.chunk.css",
+    "static/js/main.fda4e34b.chunk.js"
+  ]
+}
